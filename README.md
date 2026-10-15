@@ -3,7 +3,7 @@
 A modern, responsive React.js mini-project showcasing fictional job openings at Stark Industries and the Marvel Cinematic Universe, built with custom CSS Flexbox layouts and reusable components.
 
 ## 📸 App Preview
-![Stark Industries Job Portal Preview](./images/preview1.png)
+![Stark Industries Job Portal Preview](src/images/preview1.png)
 ![Stark Industries Job Portal Preview](./images/preview2.png)
 
 
