@@ -14,10 +14,42 @@ A modern, responsive React.js mini-project showcasing fictional job openings at 
 - **Interactive UI:** Features action buttons, requirement badges, and modern card shadows.
 
 ## 🛠️ Tech Stack
-- **React.js** (with Vite)
-- **JavaScript (ES6+)**
-- **CSS3** (Flexbox, Custom Styling)
-- **Lucide React** (for icons)
+
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" alt="Vite" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+If you have any questions or would like to connect, feel free to reach out through the platforms below.
+
+**LinkedIn**
+
+<a href="https://www.linkedin.com/in/sajjadali-fullstack/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+</a>
+
+**Gmail**
+
+<a href="mailto:sajjadali.dev01@gmail.com">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" alt="Gmail" />
+</a>
+
+---
+
+## 💖 Support & Usage
+
+---
 
 ## 📦 Getting Started
 
