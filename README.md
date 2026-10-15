@@ -2,6 +2,11 @@
 
 A modern, responsive React.js mini-project showcasing fictional job openings at Stark Industries and the Marvel Cinematic Universe, built with custom CSS Flexbox layouts and reusable components.
 
+## 📸 App Preview
+![Stark Industries Job Portal Preview](./images/preview1.png)
+![Stark Industries Job Portal Preview](./images/preview2.png)
+
+
 ## 🚀 Features
 - **Reusable Component Architecture:** Built using modular React components (`Card.jsx`).
 - **Dynamic Grid & Flexbox Layout:** Perfectly responsive side-by-side card arrangement that wraps smoothly across different screen sizes.
